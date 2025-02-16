@@ -118,3 +118,15 @@
 2/16/2025 | 1:38:32 AM | INFO | Trying to check user miner status... 
 2/16/2025 | 1:38:32 AM | INFO | Last mining time: 2/15/2025, 2:36:58 AM
 2/16/2025 | 1:38:32 AM | WARN | Mining already started, next mining time is: 2/16/2025, 2:36:58 AM
+2/16/2025 | 4:21:10 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/16/2025 | 4:21:10 AM | INFO | Start process for wallet 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+2/16/2025 | 4:21:11 AM | INFO | Trying To Login for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+2/16/2025 | 4:21:11 AM | INFO | Login successful... 
+2/16/2025 | 4:21:11 AM | INFO | Trying to check user info... 
+2/16/2025 | 4:21:12 AM | INFO | User ID: 156275225 | Twitter: @qmauliaa | Total Points: 26680 
+2/16/2025 | 4:21:12 AM | INFO | Trying to check user miner status... 
+2/16/2025 | 4:21:12 AM | INFO | Last mining time: 2/15/2025, 2:36:58 AM
+2/16/2025 | 4:21:12 AM | INFO | Trying to start Mining for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+2/16/2025 | 4:21:13 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+2/16/2025 | 4:21:13 AM | INFO | Trying to activate mining on-chain for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+2/16/2025 | 4:21:23 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x56b8676548d1795ceb6086217976fad6f9b818d228ccd746626f3c234bdc4c70 
