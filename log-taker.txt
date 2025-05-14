@@ -4987,3 +4987,15 @@
 5/13/2025 | 8:24:20 PM | INFO | Trying to activate mining on-chain for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
 5/13/2025 | 8:24:21 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/13/2025 | 8:24:21 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/14/2025 | 1:45:49 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/14/2025 | 1:45:50 AM | INFO | Start process for wallet 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+5/14/2025 | 1:45:51 AM | INFO | Trying To Login for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+5/14/2025 | 1:45:51 AM | INFO | Login successful... 
+5/14/2025 | 1:45:51 AM | INFO | Trying to check user info... 
+5/14/2025 | 1:45:52 AM | INFO | User ID: 156275225 | Twitter: @qmauliaa | Total Points: 1826860 
+5/14/2025 | 1:45:52 AM | INFO | Trying to check user miner status... 
+5/14/2025 | 1:45:59 AM | INFO | Last mining time: 5/12/2025, 8:24:12 PM
+5/14/2025 | 1:45:59 AM | INFO | Trying to start Mining for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+5/14/2025 | 1:46:03 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/14/2025 | 1:46:03 AM | INFO | Trying to activate mining on-chain for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+5/14/2025 | 1:47:14 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8f5b79a776c91c05c76fafb751b1cc8f073aa0f285b5aac4cd5f8f3ff116d47d 
