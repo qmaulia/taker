@@ -5360,3 +5360,12 @@
 5/20/2025 | 8:29:52 AM | INFO | Trying to activate mining on-chain for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
 5/20/2025 | 8:29:54 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x21e606C393D34341c5cA7531172fAc0731317F2c"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x53","from":"0x21e606c393d34341c5ca7531172fac0731317f2c","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 8:29:54 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 12:45:27 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 12:45:27 PM | INFO | Start process for wallet 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+5/20/2025 | 12:45:27 PM | INFO | Trying To Login for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+5/20/2025 | 12:45:28 PM | INFO | Login successful... 
+5/20/2025 | 12:45:28 PM | INFO | Trying to check user info... 
+5/20/2025 | 12:45:29 PM | INFO | User ID: 156275225 | Twitter: @qmauliaa | Total Points: 1994860 
+5/20/2025 | 12:45:29 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 12:45:30 PM | INFO | Last mining time: 5/19/2025, 12:45:33 PM
+5/20/2025 | 12:45:30 PM | WARN | Mining already started, next mining time is: 5/20/2025, 12:45:33 PM
