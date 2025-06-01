@@ -6072,3 +6072,15 @@
 6/1/2025 | 4:31:50 PM | WARN | Retrying... (0 attempts left) 
 6/1/2025 | 4:34:10 PM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/1/2025 | 4:34:10 PM | ERROR | Failed to retrieve nonce for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+6/1/2025 | 8:22:43 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/1/2025 | 8:22:43 PM | INFO | Start process for wallet 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+6/1/2025 | 8:22:44 PM | INFO | Trying To Login for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+6/1/2025 | 8:22:45 PM | INFO | Login successful... 
+6/1/2025 | 8:22:45 PM | INFO | Trying to check user info... 
+6/1/2025 | 8:22:46 PM | INFO | User ID: 156275225 | Twitter: @qmauliaa | Total Points: 2234860 
+6/1/2025 | 8:22:46 PM | INFO | Trying to check user miner status... 
+6/1/2025 | 8:22:47 PM | INFO | Last mining time: 5/31/2025, 8:21:30 PM
+6/1/2025 | 8:22:47 PM | INFO | Trying to start Mining for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+6/1/2025 | 8:22:47 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/1/2025 | 8:22:47 PM | INFO | Trying to activate mining on-chain for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+6/1/2025 | 8:22:59 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8061aae28f6d7af52d03d550ac75dfe7f373bc28e16c7c3131f28996d86d135a 
