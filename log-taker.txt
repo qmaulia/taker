@@ -8176,3 +8176,12 @@
 7/8/2025 | 4:29:14 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 7/8/2025 | 4:29:14 PM | INFO | Trying to activate mining on-chain for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
 7/8/2025 | 4:29:31 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x19b33e0119532830ec2cb3f3f747f19bdb2dd401a06036fac43364e792f69b25 
+7/8/2025 | 8:25:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/8/2025 | 8:25:01 PM | INFO | Start process for wallet 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+7/8/2025 | 8:25:02 PM | INFO | Trying To Login for wallet: 0x21e606C393D34341c5cA7531172fAc0731317F2c 
+7/8/2025 | 8:25:03 PM | INFO | Login successful... 
+7/8/2025 | 8:25:03 PM | INFO | Trying to check user info... 
+7/8/2025 | 8:25:03 PM | INFO | User ID: 156275225 | Twitter: @qmauliaa | Total Points: 3050860 
+7/8/2025 | 8:25:03 PM | INFO | Trying to check user miner status... 
+7/8/2025 | 8:25:09 PM | INFO | Last mining time: 7/8/2025, 4:29:21 PM
+7/8/2025 | 8:25:09 PM | WARN | Mining already started, next mining time is: 7/9/2025, 4:29:21 PM
